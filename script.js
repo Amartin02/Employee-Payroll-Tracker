@@ -13,6 +13,8 @@ const collectEmployees = function () {
     const employeeLastName = window.prompt(
       "Please enter the employee's last name"
     );
+
+    let employeeSalary = window.prompt("Please enter the employee's Salary");
   }
 };
 
